@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel
+END
+ExcelBase.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/ExcelBase.cs
+END
+ExcelWriterException.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/ExcelWriterException.cs
+END
+ExcelWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/ExcelWriter.cs
+END
+ExcelStyle.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/ExcelStyle.cs
+END
+ExcelNPOIWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/ExcelNPOIWriter.cs
+END
+RoundingNPOIWriter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/new/!svn/ver/2674/BirdDog_Wizard/branches/BirdDog_Wizard_2.4.0.0/BirdDog/BirdDog/Excel/RoundingNPOIWriter.cs
+END

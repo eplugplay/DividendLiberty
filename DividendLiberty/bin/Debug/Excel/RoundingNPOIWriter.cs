@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using NPOI.HSSF.UserModel;
+
+namespace DividendLiberty.Excel
+{
+    class RoundingNPOIWriter:ExcelNPOIWriter
+    {
+        public int NumberOfDecimals
+        {
+            get;
+            set;
+        }
+
+        public RoundingNPOIWriter(int numberOfDecimals)
+            : base()
+        {
+            this.NumberOfDecimals = numberOfDecimals;
+        }
+        public override void WriteCell(int Column, int Row, string WorksheetName, object Value, string style)
+        {
+            Type valueType = Value.GetType();
+            HSSFSheet worksheet = VerifyWorksheet(WorksheetName);
+            HSSFRow wsRow = (HSSFRow)worksheet.GetRow(Row) ?? (HSSFRow)worksheet.CreateRow(Row);
+            HSSFCell cell = (HSSFCell)wsRow.CreateCell(Column);
+            bool hasStyle = false;
+            if (style != string.Empty)
+            {
+                cell.CellStyle = this.GetStyle(hssfworkbook, style);
+                hasStyle = true;
+            }
+
+            if (valueType == typeof(DateTime))
+            {
+                WriteCellTypeValue(Convert.ToDateTime(Value).ToString(this.DateFormat), cell, hasStyle);
+            }
+            else if (valueType == typeof(Double) || valueType == typeof(Decimal))
+            {
+                WriteCellTypeValue(Math.Round(Convert.ToDouble(Value), this.NumberOfDecimals), cell, hasStyle);
+            }
+            else
+            {
+                WriteCellTypeValue(Value.ToString(), cell, hasStyle);
+            }
+        }
+    }
+}

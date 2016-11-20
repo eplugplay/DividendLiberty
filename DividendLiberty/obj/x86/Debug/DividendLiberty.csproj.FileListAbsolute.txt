@@ -1,0 +1,84 @@
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.pdb
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Shares.resources
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+c:\users\stevey\documents\visual studio 2010\Projects\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\bin\Debug\DividendStocksData.xml
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.exe
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\bin\Debug\DividendLiberty.pdb
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+C:\Users\stevey\Documents\GitHub\DividendLiberty\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyStocks.xml
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelBase.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelNPOIWriter.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelStyle.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriter.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriterException.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\RoundingNPOIWriter.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\PortfolioExcel.cs
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyConfig.ini
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.pdb
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.EditColumns.resources
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
+C:\Users\stevey\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.csprojResolveAssemblyReference.cache
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyStocks.xml
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelBase.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelNPOIWriter.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelStyle.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriter.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriterException.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\RoundingNPOIWriter.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\PortfolioExcel.cs
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyConfig.ini
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.pdb
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.EditColumns.resources
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+C:\Users\Steve Yi\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
+C:\Users\Steve Yi\Documents\GitHub\dividendlibertycommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.csprojResolveAssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyStocks.xml
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelBase.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelNPOIWriter.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelStyle.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriter.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\ExcelWriterException.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\RoundingNPOIWriter.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\Excel\PortfolioExcel.cs
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLibertyConfig.ini
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe.config
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.exe
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\bin\Debug\DividendLiberty.pdb
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Dividends.resources
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.EditColumns.resources
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.MainMenu.resources
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.PleaseWait.resources
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.csproj.GenerateResource.Cache
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.exe
+C:\Users\steve\OneDrive\Documents\GitHub\DividendLibertyCommercial\DividendLiberty\obj\x86\Debug\DividendLiberty.pdb
